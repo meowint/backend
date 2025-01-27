@@ -1,3 +1,4 @@
 service_account.json
 node_modules
 pnpm-lock.yaml
+config.json
